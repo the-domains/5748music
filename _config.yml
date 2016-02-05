@@ -1,0 +1,28 @@
+name: 5748music
+favicon: null
+layout_spectrum: 0.06415170733816922
+typography_spectrum: 0.2844190567266196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.01568592991679907
+  lightness: 0.431402794085443
+  saturation: 0.9123341231606901
+  rhythmicContrast: 0.9984155774582177
+purpose: []
