@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[5748music]]></title>
-        <description><![CDATA[5748music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Hamisameach Presents:]]></title>
+        <description><![CDATA[Hamisameach Presents:]]></description>
+        <link>https://thegrid.ai/5748music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 06:32:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 06:48:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/5748music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[גד אלבז וניסים ה' מלך Gad Elbaz and Nissim - Hashem Melech 2.0]]></title>
+            <description><![CDATA[<article><h1>גד אלבז וניסים ה' מלך Gad Elbaz and Nissim - Hashem Melech 2.0</h1><p>In an exuberant explosion of music, Israeli star Gad Elbaz joins forces with American Hasidic rapper Nissim Black, taking to the streets of New York City to perform a new rendition of Elbaz' hit Hashem Melech.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc5de848b19380b46bd2f746db493f98fd7aabc0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=w-Y_5brDUSM</link>
+            <guid isPermaLink="false">8fb4c309-71f0-4b06-8808-6bad6011434d</guid>
+            <pubDate>Fri, 05 Feb 2016 06:48:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hamisameach Presents:</p>]]></description>
-            <link>undefinedde23bbbc-a25e-4b6b-b420-bc61113e9973/index.html</link>
+            <link>https://thegrid.ai/5748music/de23bbbc-a25e-4b6b-b420-bc61113e9973/index.html</link>
             <guid isPermaLink="false">de23bbbc-a25e-4b6b-b420-bc61113e9973</guid>
             <pubDate>Fri, 05 Feb 2016 06:32:12 GMT</pubDate>
         </item>
